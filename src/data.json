@@ -1,0 +1,126 @@
+[
+	[
+		{
+			"productName": "Havuç",
+			"values": [
+				{
+					"siteName": "freshworld",
+					"values": [
+						{
+							"name": "Brokoli Havuç Karnabahar 600GR",
+							"price": "13.50"
+						},
+						{
+							"name": "Havuç Soyulmuş 400GR",
+							"price": "6.00"
+						},
+						{
+							"name": "Pırasa ve Havuç 500GR",
+							"price": "7.95"
+						},
+						{
+							"name": "Havuç 900GR",
+							"price": "9.90"
+						},
+						{
+							"name": "Maskolin Mix Salata",
+							"price": "23.00"
+						},
+						{
+							"name": "Akdeniz Mix Salata",
+							"price": "19.00"
+						},
+						{
+							"name": "Iceberg Salata",
+							"price": "18.00"
+						},
+						{
+							"name": "Meyve Sebze Paketi",
+							"price": "160.06"
+						},
+						{
+							"name": "Special Mini Veg.",
+							"price": "117.71"
+						},
+						{
+							"name": "Haftalık Tüketim Paketi",
+							"price": "159.90"
+						},
+						{
+							"name": "Baby Kabak 1 PKT",
+							"price": "17.50"
+						},
+						{
+							"name": "Sarımsak Soyulmuş 60GR",
+							"price": "6.00"
+						},
+						{
+							"name": "Sarımsak Kuru 200GR",
+							"price": "10.90"
+						},
+						{
+							"name": "Kabak 700GR",
+							"price": "6.90"
+						}
+					]
+				}
+			]
+		}
+	],
+	[
+		{
+			"productName": "Limon",
+			"values": [
+				{
+					"siteName": "freshworld",
+					"values": [
+						{
+							"name": "Lime Limon 150GR",
+							"price": "9.90"
+						},
+						{
+							"name": "Limon 650GR",
+							"price": "11.90"
+						},
+						{
+							"name": "Meyve Sebze Paketi",
+							"price": "160.06"
+						},
+						{
+							"name": "Special Mini Veg.",
+							"price": "117.71"
+						},
+						{
+							"name": "Haftalık Tüketim Paketi",
+							"price": "159.90"
+						},
+						{
+							"name": "Yeşil Paket",
+							"price": "111.08"
+						},
+						{
+							"name": "Adaçayı 25GR",
+							"price": "6.90"
+						},
+						{
+							"name": "Sarımsak Soyulmuş 60GR",
+							"price": "6.00"
+						},
+						{
+							"name": "Kereviz Sapı Adet",
+							"price": "9.90"
+						},
+						{
+							"name": "Maskolin 150GR",
+							"price": "10.00"
+						},
+						{
+							"name": "Sarımsak Kuru 200GR",
+							"price": "10.90"
+						}
+					]
+				}
+			]
+		}
+	]
+  ]
