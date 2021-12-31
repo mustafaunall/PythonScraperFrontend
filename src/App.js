@@ -3,6 +3,7 @@ import axios from 'axios'
 import React from 'react'
 import './style.css'
 import data from './data.json'
+import $ from 'jquery'
 
 class App extends React.Component {
 	state = {
@@ -11,10 +12,9 @@ class App extends React.Component {
 	productNames = []
 
 	async componentDidMount() {
+		console.log('dd')
+		$('#mytable').DataTable()
 
-	}
-
-	async componentDidMount2() {
 		return
 		let API_URL = 'http://192.168.225.9:5000/'
 		this.productNames = (await axios.get(`${API_URL}/getProductNames`)).data
@@ -32,8 +32,8 @@ class App extends React.Component {
 
 	render() {
 		return (
-			<div className="App">
-				<table className="tg">
+			<div className="App" style={{ display: 'flex', justifyContent: 'center', textAlign: 'center', marginTop: 50 }}>
+				<table id="mytable" className="tg" style={{ width: '80%' }}>
 					<thead>
 						<tr>
 							<th className="tg-baqh">Ürün</th>
